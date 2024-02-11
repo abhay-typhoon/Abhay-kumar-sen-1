@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.AUDIX.Audix1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.602 s <<< FAILURE! - in com.example.AUDIX.Audix1ApplicationTests
+contextLoads  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NoClassDefFoundError: javax/persistence/EntityManagerFactory
+Caused by: java.lang.ClassNotFoundException: javax.persistence.EntityManagerFactory
+

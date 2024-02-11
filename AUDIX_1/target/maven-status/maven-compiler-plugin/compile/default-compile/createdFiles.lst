@@ -1,0 +1,6 @@
+com\example\AUDIX\Category.class
+com\category\example\controller\UserController.class
+com\category\example\service\UserService.class
+com\example\AUDIX\Audix1Application.class
+com\category\example\repository\UserRepository.class
+com\category\example\model\User.class
