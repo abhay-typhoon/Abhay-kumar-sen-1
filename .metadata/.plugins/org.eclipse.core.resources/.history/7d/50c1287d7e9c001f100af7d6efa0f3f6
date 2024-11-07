@@ -1,0 +1,5 @@
+package com.UserManagment.Email;
+
+public class EmailService {
+
+}

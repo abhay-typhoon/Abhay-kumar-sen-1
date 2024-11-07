@@ -1,0 +1,5 @@
+package com.UserManagment.Repository;
+
+public class UserRepository {
+
+}
